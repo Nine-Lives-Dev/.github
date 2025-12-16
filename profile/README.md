@@ -1,110 +1,203 @@
-# Nine Lives Development LLC
+<div align="center">
 
-A high-performance engineering studio building modern Web, Mobile, Web3, and AI systems with precision, speed, and taste.
+# 🐾 Nine Lives Development LLC
 
-We partner with teams who need more than code — teams who want products that feel fast, look exceptional, and scale cleanly.
+### _High-Performance Engineering for Modern Digital Products_
 
-Our work spans everything from interactive marketing sites to complex backend infra, automation, crypto integrations, and full-stack product builds.
+[![Website](https://img.shields.io/badge/Website-NineLives.dev-1a1a1a?style=for-the-badge&logo=safari)](https://NineLives.dev)
+[![Email](https://img.shields.io/badge/Email-contact%40ninelives.dev-1a1a1a?style=for-the-badge&logo=gmail)](mailto:contact@ninelives.dev)
 
-**Partnered with the Wen Coin Foundation** on web, engineering, and automation initiatives.
+**Building modern Web, Mobile, Web3, and AI systems with precision, speed, and taste.**
 
-⸻
+_Trusted partner of the Wen Coin Foundation for web engineering and automation initiatives._
 
-## Core Capabilities
+</div>
 
-### Product Engineering
+---
 
-Modern web apps and services built with SvelteKit 5, React, Next.js, Supabase, Firebase, and custom backend systems.
+## 🎯 Who We Are
 
-### Mobile
+Nine Lives Development is a **high-performance engineering studio** partnering with teams who need more than code — teams who want products that **feel fast, look exceptional, and scale cleanly**.
 
-Native iOS (SwiftUI 6+) and Android (Kotlin).
+Our work spans everything from **interactive marketing sites** to **complex backend infrastructure**, automation systems, crypto integrations, and full-stack product builds.
 
-Smooth, stable, and designed like premium consumer apps.
+**Small. Senior. Fast.** No bloated PM structures. You work directly with the engineers shipping your product.
 
-### AI & Automation
+---
 
-Custom agents, embeddings, document systems, vector search, n8n workflows, call routing, lead scoring, Slack/Telegram bots, and operational automation.
+## 🚀 Core Capabilities
 
-### Web3 & Crypto
+### 💻 Product Engineering
 
-Solana and EVM integrations, wallet flows, staking systems, token dashboards, trading logic, backend services, and secure Web3 onboarding.
+Modern web applications and services built with **SvelteKit 5**, **React**, **Next.js**, **Supabase**, **Firebase**, and custom backend systems. Architected for scale, designed for performance.
 
-### Design & Frontend Experience
+### 📱 Mobile Development
 
-High-end interactive frontends using Tailwind v4, GSAP, Lottie, and animation systems.
+Native **iOS** (SwiftUI 6+) and **Android** (Kotlin). Smooth, stable, and designed like premium consumer apps. No compromises on performance or user experience.
 
-Brand-level polish with engineering discipline.
+### 🤖 AI & Automation
 
-⸻
+Custom AI agents, embeddings, document systems, vector search, **n8n workflows**, call routing, lead scoring, **Slack/Telegram bots**, and operational automation that eliminates manual work.
 
-## Approach
+### ⛓️ Web3 & Crypto
 
-### 1. Engineering First
+**Solana** and **EVM** integrations, wallet flows, staking systems, token dashboards, trading logic, backend services, and secure Web3 onboarding experiences.
 
-We build for scale, clarity, and long-term maintainability.
+### 🎨 Design & Frontend Experience
 
-Clean architecture, strict typing when needed, documented pipelines, and predictable deployments.
+High-end interactive frontends using **Tailwind v4**, **GSAP**, **Lottie**, and animation systems. Brand-level polish backed by engineering discipline.
 
-### 2. Product Taste
+---
 
-We deliver experiences that feel premium — smooth animations, intuitive flows, and visually coherent interfaces.
+## 🏗️ Our Approach
 
-### 3. Speed Without Chaos
+### **1. Engineering First**
 
-Small, senior, and fast.
+We build for scale, clarity, and long-term maintainability. Clean architecture, strict typing when needed, documented pipelines, and predictable deployments.
 
-No bloated PM structures.
+### **2. Product Taste**
 
-You work directly with the engineer shipping your product.
+We deliver experiences that feel premium — smooth animations, intuitive flows, and visually coherent interfaces that users love.
 
-### 4. Practical Communication
+### **3. Speed Without Chaos**
 
-Clear scopes, transparent roadmaps, async-friendly updates, and deliverables you can track.
+Small, senior, and fast. You work directly with the engineer shipping your product. No unnecessary layers or overhead.
 
-⸻
+### **4. Practical Communication**
 
-## What We Build
+Clear scopes, transparent roadmaps, async-friendly updates, and deliverables you can track. We respect your time and keep you informed.
 
-We partner with teams across fintech, consumer apps, crypto, operations, field services, and emerging startups.
+---
 
-Recent work includes:
+## 🛠️ What We Build
 
--   Full-stack Web applications
+We partner with teams across **fintech**, **consumer apps**, **crypto**, **operations**, **field services**, and **emerging startups**.
+
+### Recent Work Includes
+
+<table>
+<tr>
+<td width="50%">
+
+**Product Engineering**
+
+-   Full-stack web applications
+-   Internal dashboards & analytics
+-   High-end marketing sites
+-   Real-time data integrations
+-   Custom backend services & APIs
+
+</td>
+<td width="50%">
+
+**Specialized Systems**
+
 -   iOS and Android apps
 -   Automated lead-routing systems
--   Internal dashboards and analytics tools
--   AI-powered assistants and workflow automation
--   High-end marketing sites
--   Web3 onboarding, wallet systems, and token utilities
--   Real-time data integrations
--   Custom backend services and APIs
+-   AI-powered assistants & workflow automation
+-   Web3 onboarding & wallet systems
+-   Token utilities & staking platforms
 
-(We keep client names private unless authorized.)
+</td>
+</tr>
+</table>
 
-⸻
+_We keep client names private unless authorized._
 
-## Technical Stack
+---
 
--   Frontend: SvelteKit 5, React, Next.js, Tailwind v4, GSAP
--   Backend: Supabase, Firebase, Express, Cloud Functions, Node.js
--   Mobile: SwiftUI 6+, Kotlin, Flutter
--   Automation: n8n, Slack bots, Telegram bots, Twilio, Retreaver, Google Cloud
--   AI: OpenAI, embeddings, vector search, custom agents
--   Web3: Solana (Helius/Jupiter), Ethereum (ethers/web3.py), Privy, Turnkey
+## ⚙️ Technical Stack
 
-⸻
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Philosophy
+**Frontend**
 
-Nine Lives was named after Hunter — a reminder to build with care, loyalty, and craftsmanship.
+-   SvelteKit 5
+-   React / Next.js
+-   Tailwind v4
+-   GSAP
+-   Lottie
 
-The products we ship reflect that standard.
+</td>
+<td width="33%" valign="top">
 
-⸻
+**Backend & Infrastructure**
 
-## Contact
+-   Supabase
+-   Firebase
+-   Express
+-   Cloud Functions
+-   Node.js
 
-📧 contact@ninelives.dev
+</td>
+<td width="33%" valign="top">
 
-🌐 https://NineLives.dev
+**Mobile**
+
+-   SwiftUI 6+
+-   Kotlin
+-   Flutter
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**AI & Automation**
+
+-   OpenAI
+-   Embeddings & Vector Search
+-   Custom Agents
+-   n8n Workflows
+
+</td>
+<td width="33%" valign="top">
+
+**Integrations**
+
+-   Slack / Telegram Bots
+-   Twilio
+-   Retreaver
+-   Google Cloud
+
+</td>
+<td width="33%" valign="top">
+
+**Web3**
+
+-   Solana (Helius/Jupiter)
+-   Ethereum (ethers/web3.py)
+-   Privy
+-   Turnkey
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💭 Philosophy
+
+> _Nine Lives was named after Hunter — a reminder to build with care, loyalty, and craftsmanship._
+
+The products we ship reflect that standard. Every line of code, every interface, every user interaction is crafted with intention and built to last.
+
+---
+
+## 📬 Get In Touch
+
+Ready to build something exceptional? We'd love to hear about your project.
+
+<div align="center">
+
+### 📧 [contact@ninelives.dev](mailto:contact@ninelives.dev)
+
+### 🌐 [NineLives.dev](https://NineLives.dev)
+
+---
+
+_Building the future, one product at a time._ 🐾
+
+</div>
