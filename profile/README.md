@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐾 Nine Lives Development LLC
+# 🐾 Nine Lives Development
 
 ### _High-Performance Engineering for Modern Digital Products_
 
