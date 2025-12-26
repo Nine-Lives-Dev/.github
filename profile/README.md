@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐾 Nine Lives Development
+# 🐾 Nine Lives Development LLC
 
 ### _High-Performance Web Engineering, SEO, and AI Automation_
 
