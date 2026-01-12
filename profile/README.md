@@ -2,6 +2,8 @@
 
 <img src="https://www.ninelivesdevelopment.com/email/logo-white-variant-white-bg-2.png" alt="Nine Lives Development" width="500"/>
 
+----------
+
 # Nine Lives Development LLC
 
 ### _High-Performance Web Engineering, SEO, and AI Automation_
