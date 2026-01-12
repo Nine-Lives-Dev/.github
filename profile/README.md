@@ -4,7 +4,7 @@
 
 ----------
 
-# Nine Lives Development LLC
+# Nine Lives
 
 ### _High-Performance Web Engineering, SEO, and AI Automation_
 
