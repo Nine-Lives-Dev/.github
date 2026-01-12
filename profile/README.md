@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.ninelivesdevelopment.com/email/logo-white-variant-white-bg-2.png" alt="Nine Lives Development" width="500"/>
+<img src="https://www.ninelivesdevelopment.com/email/logo-white-variant-white-bg-2.png" alt="Nine Lives Development" width="500" class="pointer-events-none"/>
 
 ----------
 
