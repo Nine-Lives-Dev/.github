@@ -90,9 +90,7 @@ _Real-time coding activity, auto-tracked via WakaTime — updates as projects sh
 
 [![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/84d99a04-1f0a-462c-82a1-6b716abca8ba.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/84d99a04-1f0a-462c-82a1-6b716abca8ba) Stratella Consulting
 
-[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/fdd4a0dc-36b5-489d-810c-16ec0260d552.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/fdd4a0dc-36b5-489d-810c-16ec0260d552) Slowinski
-
-V2
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/fdd4a0dc-36b5-489d-810c-16ec0260d552.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/fdd4a0dc-36b5-489d-810c-16ec0260d552) SlowinskiV2
 
 </details>
 
