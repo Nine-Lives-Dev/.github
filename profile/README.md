@@ -27,25 +27,25 @@ _Featured partner of the Wen Coin Foundation for web engineering and automation.
 </div>
 
 ---
-Iron Pigeon[![Iron Pigeon](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/b5275380-edda-4c44-8ad2-0893389a9586.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/b5275380-edda-4c44-8ad2-0893389a9586)
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/b5275380-edda-4c44-8ad2-0893389a9586.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/b5275380-edda-4c44-8ad2-0893389a9586) Iron Pigeon
 
-Palm Build[![Palm Build](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/0cae25ae-7e62-4466-8300-cfdba9ec02c6.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/0cae25ae-7e62-4466-8300-cfdba9ec02c6)
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/0cae25ae-7e62-4466-8300-cfdba9ec02c6.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/0cae25ae-7e62-4466-8300-cfdba9ec02c6) Palm Build
 
-Ovols | Parliament[![Ovols | Parliament](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/4f3ec9a8-eba4-4e2e-8df6-9f441467c80f.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/4f3ec9a8-eba4-4e2e-8df6-9f441467c80f)
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/4f3ec9a8-eba4-4e2e-8df6-9f441467c80f.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/4f3ec9a8-eba4-4e2e-8df6-9f441467c80f) Ovols | Parliament
 
-Reclaim AI[![Reclaim AI](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d8681a3e-7077-4c20-b461-191ff0307857.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d8681a3e-7077-4c20-b461-191ff0307857)
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d8681a3e-7077-4c20-b461-191ff0307857.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d8681a3e-7077-4c20-b461-191ff0307857) Reclaim AI
 
-Kat Hub[![Kat Hub](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/9f6f3c96-589e-4a0d-bd61-b53112aba0a6.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/9f6f3c96-589e-4a0d-bd61-b53112aba0a6)
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/9f6f3c96-589e-4a0d-bd61-b53112aba0a6.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/9f6f3c96-589e-4a0d-bd61-b53112aba0a6) Kat Hub
 
-Palm Forms[![Palm Forms](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/5621b752-e40f-405a-9a51-e63f818a0d08.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/5621b752-e40f-405a-9a51-e63f818a0d08)
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/5621b752-e40f-405a-9a51-e63f818a0d08.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/5621b752-e40f-405a-9a51-e63f818a0d08) Palm Forms
 
-Plumbing Leads[![Plumbing Leads](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/91eba671-0f58-45c6-a5b1-f0dc004fea11.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/91eba671-0f58-45c6-a5b1-f0dc004fea11)
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/91eba671-0f58-45c6-a5b1-f0dc004fea11.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/91eba671-0f58-45c6-a5b1-f0dc004fea11) Plumbing Leads
 
-Integra[![Integra](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/ab1092e6-e32d-497b-a5ab-f1dacdca603c.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/ab1092e6-e32d-497b-a5ab-f1dacdca603c)
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/ab1092e6-e32d-497b-a5ab-f1dacdca603c.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/ab1092e6-e32d-497b-a5ab-f1dacdca603c) Integra
 
-Email Temp[![Email Temp](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/53929941-15a2-4793-999e-0c131d27fe4e.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/53929941-15a2-4793-999e-0c131d27fe4e)
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/53929941-15a2-4793-999e-0c131d27fe4e.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/53929941-15a2-4793-999e-0c131d27fe4e) Email Temp
 
-Maddie Vision[![Maddie Vision](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/8404e81c-549f-4956-b59c-59afb641a306.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/8404e81c-549f-4956-b59c-59afb641a306)
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/8404e81c-549f-4956-b59c-59afb641a306.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/8404e81c-549f-4956-b59c-59afb641a306) Maddie Vision
 
 
 ## 🎯 Who We Are
