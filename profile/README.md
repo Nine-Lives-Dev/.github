@@ -28,6 +28,8 @@ _Featured partner of the Wen Coin Foundation for web engineering and automation.
 
 ---
 
+[![wakatime](https://wakatime.com/badge/github/chriszmx/maddie-vision.svg)](https://wakatime.com/badge/github/chriszmx/maddie-vision)
+
 ## 🎯 Who We Are
 
 Nine Lives Development is a **high-performance engineering studio** specializing in **web applications**, **SEO-first architecture**, and **AI-powered automation systems**.
