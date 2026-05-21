@@ -27,8 +27,20 @@ _Featured partner of the Wen Coin Foundation for web engineering and automation.
 </div>
 
 ---
-Active Contracts [LIVE]
+
+<div align="center">
+
+## 📊 Active Contracts <sub>[LIVE]</sub>
+
 [![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497.svg)](https://wakatime.com/@bc20ef46-5626-4d0c-aaed-b47298d62497)
+
+_Real-time coding activity, auto-tracked via WakaTime — updates as projects ship._
+
+</div>
+
+<details open>
+<summary><b>🗂️ Per-project breakdown</b> <sub>(click to collapse)</sub></summary>
+<br>
 
 [![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d943fe8f-e55a-4d02-bfd4-73d6a770de79.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d943fe8f-e55a-4d02-bfd4-73d6a770de79) Nine Lives Dev
 
@@ -78,7 +90,11 @@ Active Contracts [LIVE]
 
 [![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/84d99a04-1f0a-462c-82a1-6b716abca8ba.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/84d99a04-1f0a-462c-82a1-6b716abca8ba) Stratella Consulting
 
-[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/fdd4a0dc-36b5-489d-810c-16ec0260d552.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/fdd4a0dc-36b5-489d-810c-16ec0260d552) Slowinski V2
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/fdd4a0dc-36b5-489d-810c-16ec0260d552.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/fdd4a0dc-36b5-489d-810c-16ec0260d552) Slowinski
+
+V2
+
+</details>
 
 
 
@@ -288,7 +304,8 @@ _Lead Routing & Booking_
 **HVAC Services Today**
 _Service Automation_
 
-**Slowinski Services**
+**29
+Services**
 _Operations Systems_
 
 </td>
