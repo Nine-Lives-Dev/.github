@@ -27,7 +27,8 @@ _Featured partner of the Wen Coin Foundation for web engineering and automation.
 </div>
 
 ---
-Active Contracts [LIVE] [![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497.svg)](https://wakatime.com/@bc20ef46-5626-4d0c-aaed-b47298d62497)
+Active Contracts [LIVE]
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497.svg)](https://wakatime.com/@bc20ef46-5626-4d0c-aaed-b47298d62497)
 
 [![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d943fe8f-e55a-4d02-bfd4-73d6a770de79.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d943fe8f-e55a-4d02-bfd4-73d6a770de79) Nine Lives Dev
 
