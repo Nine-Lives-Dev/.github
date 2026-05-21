@@ -47,6 +47,32 @@ _Featured partner of the Wen Coin Foundation for web engineering and automation.
 
 [![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/8404e81c-549f-4956-b59c-59afb641a306.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/8404e81c-549f-4956-b59c-59afb641a306) Maddie Vision
 
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/74b25165-9f82-41f8-911b-2db0e613705c.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/74b25165-9f82-41f8-911b-2db0e613705c) Synatra
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d47f5542-da49-4f59-aabe-224891b18e72.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d47f5542-da49-4f59-aabe-224891b18e72) Biz Dev Cal Beta
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/94c8c2ff-a6a8-4289-91a7-52e1566e7fd2.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/94c8c2ff-a6a8-4289-91a7-52e1566e7fd2) RPB V2
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/f9ee86a5-771c-4f06-a634-3373c31bb2cf.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/f9ee86a5-771c-4f06-a634-3373c31bb2cf) OPS Palm Bld
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/1a15e7f4-2124-4bc4-9a3f-d91ed2d9ec68.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/1a15e7f4-2124-4bc4-9a3f-d91ed2d9ec68) Turan Tattoo
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/8cc1310e-05e7-4cc7-87cf-964e5203272b.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/8cc1310e-05e7-4cc7-87cf-964e5203272b) FootprintsPediatrics PC
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/9a1115ed-51df-4d89-8363-b1b42e9c8dba.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/9a1115ed-51df-4d89-8363-b1b42e9c8dba) 418
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/70e0b4d8-e68b-4a6a-b400-54ac846d6ab9.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/70e0b4d8-e68b-4a6a-b400-54ac846d6ab9) Oracle
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/0d42d06d-fca1-40e5-9d89-dbc7dab044db.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/0d42d06d-fca1-40e5-9d89-dbc7dab044db) 9L
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/def4a6e8-4bc9-4a2c-ad58-933325014e4a.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/def4a6e8-4bc9-4a2c-ad58-933325014e4a) Yuma
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/84d99a04-1f0a-462c-82a1-6b716abca8ba.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/84d99a04-1f0a-462c-82a1-6b716abca8ba) Stratella Consulting
+
+
+
+
+
 
 ## 🎯 Who We Are
 
