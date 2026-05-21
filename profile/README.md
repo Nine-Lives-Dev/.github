@@ -27,11 +27,19 @@ _Featured partner of the Wen Coin Foundation for web engineering and automation.
 </div>
 
 ---
+Active Contracts [LIVE]
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d943fe8f-e55a-4d02-bfd4-73d6a770de79.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d943fe8f-e55a-4d02-bfd4-73d6a770de79) Nine Lives Dev
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/456dd707-b7dd-41f4-9b1a-ed72b077052f.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/456dd707-b7dd-41f4-9b1a-ed72b077052f) WEN
+
 [![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/b5275380-edda-4c44-8ad2-0893389a9586.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/b5275380-edda-4c44-8ad2-0893389a9586) Iron Pigeon
 
 [![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/0cae25ae-7e62-4466-8300-cfdba9ec02c6.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/0cae25ae-7e62-4466-8300-cfdba9ec02c6) Palm Build
 
 [![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/4f3ec9a8-eba4-4e2e-8df6-9f441467c80f.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/4f3ec9a8-eba4-4e2e-8df6-9f441467c80f) Ovols | Parliament
+
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/44ebdc90-aa41-43b9-82d8-29a4a06cad06.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/44ebdc90-aa41-43b9-82d8-29a4a06cad06) LSR
 
 [![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d8681a3e-7077-4c20-b461-191ff0307857.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/d8681a3e-7077-4c20-b461-191ff0307857) Reclaim AI
 
@@ -69,7 +77,7 @@ _Featured partner of the Wen Coin Foundation for web engineering and automation.
 
 [![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/84d99a04-1f0a-462c-82a1-6b716abca8ba.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/84d99a04-1f0a-462c-82a1-6b716abca8ba) Stratella Consulting
 
-
+[![wakatime](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/fdd4a0dc-36b5-489d-810c-16ec0260d552.svg)](https://wakatime.com/badge/user/bc20ef46-5626-4d0c-aaed-b47298d62497/project/fdd4a0dc-36b5-489d-810c-16ec0260d552) Slowinski V2
 
 
 
