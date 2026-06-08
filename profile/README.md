@@ -26,8 +26,7 @@ _Featured partner of the Wen Coin Foundation for web engineering and automation.
 
 </div>
 
-.. image:: https://wakatime.com/share/@bc20ef46-5626-4d0c-aaed-b47298d62497/f412121d-85d6-4ec2-ae95-59a5b7175f47.png
-    :target: https://wakatime.com/
+[![WakaTime](https://wakatime.com/share/@bc20ef46-5626-4d0c-aaed-b47298d62497/f412121d-05d6-4ec2-ae95-59a5b7175f47.png)](https://wakatime.com/@bc20ef46-5626-4d0c-aaed-b47298d62497)
 ---
 
 <div align="center">
